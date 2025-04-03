@@ -17,6 +17,7 @@ $all_users = $user_obj->getAllUsers();
     <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 <body>
+    <h1>Hello World</h1>
     <nav class="navbar navbar-expand navbar-dark bg-dark" style="margin-bottom: 80px;">
         <div class="container">
             <a href="dashboard.php" class="navbar-brand">
